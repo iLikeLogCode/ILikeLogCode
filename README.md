@@ -1,4 +1,4 @@
-### Olá! Eu sou a Duda!
+### Olá!
 
 - 🔭 Hoje trabalho com backend
 - 🌱 Estudando frontend [SASS]
