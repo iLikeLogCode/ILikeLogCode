@@ -2,8 +2,6 @@
 
 - 🔭 Hoje trabalho com backend
 - 🌱 Estudando frontend [SASS]
-- 📫 Contate-me no Telegram: @Nina_dePaula
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="github.com/iLikeLogCode">  
